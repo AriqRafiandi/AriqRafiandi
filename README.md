@@ -7,7 +7,7 @@
 Saya seorang pengembang web yang tertarik pada bidang front-end dan pengembangan aplikasi berbasis web.  
 Saya suka membangun antarmuka yang sederhana namun fungsional, serta belajar teknologi baru untuk meningkatkan kemampuan saya dalam pengembangan web.
 
-- 🔭 Saat ini fokus pada: **HTML, CSS, JavaScript, dan React**
+- 🔭 Saat ini fokus pada: **JavaScript, Tailwind, React**
 - 🌱 Sedang belajar: **Flask & API Integration**
 - 🎯 Tujuan saya: menjadi **Web Developer profesional**
 
