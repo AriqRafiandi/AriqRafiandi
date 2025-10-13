@@ -33,6 +33,6 @@ Saya suka membangun antarmuka yang sederhana namun fungsional, serta belajar tek
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/ariq-rafiandi-haznov)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https:linkedin.com/in/ariq-rafiandi-haznov)  
 [![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:ariqhaznov1@gmail.com)
 
