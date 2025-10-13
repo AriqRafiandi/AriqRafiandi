@@ -10,45 +10,29 @@ Saya suka membangun antarmuka yang sederhana namun fungsional, serta belajar tek
 - 🔭 Saat ini fokus pada: **HTML, CSS, JavaScript, dan React**
 - 🌱 Sedang belajar: **Flask & API Integration**
 - 🎯 Tujuan saya: menjadi **Web Developer profesional**
-- 📫 Kontak: [Email kamu] | [LinkedIn kamu]
 
 ---
 
 ## 🧠 Skills
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Python (Flask)  
-- **Database:** MySQL, SQLite  
-- **Tools:** VS Code, Git, GitHub, Figma, NetBeans, Android Studio  
+- **Frontend:**  
+  HTML, CSS, JavaScript, Tailwind, React  
+  [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,tailwind,react)](https://skillicons.dev)
 
----
+- **Backend:**  
+  Flask, Node.js  
+  [![SkillIcons](https://skillicons.dev/icons?i=flask,nodejs)](https://skillicons.dev)
 
-## 📁 Featured Projects
-### 🌐 Web Projects
-- [Map UIN](#) – Peta interaktif berbasis web kampus UIN  
-- [Online Shop](#) – Website e-commerce sederhana  
-- [Peduli Diri](#) – Sistem pelaporan mirip PeduliLindungi  
-- [E-Learning Sederhana](#) – Platform pembelajaran berbasis web  
-- [FlaskOpenCV Face Recognition](#) – Deteksi wajah dengan Flask & OpenCV  
+- **Database:**  
+  MySQL, SQLite, Firebase  
+  [![SkillIcons](https://skillicons.dev/icons?i=mysql,sqlite,firebase)](https://skillicons.dev)
 
-### 💻 Software Projects (Java)
-- [Kumpulan Game Sederhana](#) – Game berbasis Java menggunakan NetBeans  
-- [Quiz Islamic](#) – Aplikasi kuis dengan tema Islami  
-- [Software Inventaris](#) – Sistem manajemen data inventaris sederhana  
-
-### 📱 Android Apps
-- [Money Tracking App](#) – Aplikasi pencatat keuangan  
-- [Perpustakaan App](#) – Aplikasi pengelolaan buku sederhana  
-
-### 🤖 Data & AI
-- [Analisis Sentimen IndoBERT](#) – Analisis opini teks menggunakan model IndoBERT  
-
----
-
-## 📊 GitHub Stats
-![Ariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariqrafiandi&show_icons=true&theme=default)
+- **Tools:**  
+  VS Code, Git, GitHub, Figma, NetBeans, Android Studio  
+  [![SkillIcons](https://skillicons.dev/icons?i=vscode,git,github,figma,androidstudio)](https://skillicons.dev)
 
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/USERNAME)  
-[![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:EMAILKAMU)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/ariq-rafiandi-haznov)  
+[![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:ariqhaznov1@gmail.com)
+
