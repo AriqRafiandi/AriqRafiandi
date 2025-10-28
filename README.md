@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/DeveloperHebat/DeveloperHebat/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
+
+---
+
 # Hi, I'm Ariq Rafiandi 👋
 💻 Front-End Web Developer | Passionate about clean UI and simple UX
 
