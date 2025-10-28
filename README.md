@@ -11,24 +11,6 @@ Saya suka membangun antarmuka yang sederhana namun fungsional, serta belajar tek
 - 🌱 Sedang belajar: **Flask & API Integration**
 - 🎯 Tujuan saya: menjadi **Web Developer profesional**
 
----
-
-## 🧠 Skills
-- **Frontend:**  
-  HTML, CSS, JavaScript, Tailwind, React  
-  [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,tailwind,react)](https://skillicons.dev)
-
-- **Backend:**  
-  Flask, Node.js  
-  [![SkillIcons](https://skillicons.dev/icons?i=flask,nodejs)](https://skillicons.dev)
-
-- **Database:**  
-  MySQL, SQLite, Firebase  
-  [![SkillIcons](https://skillicons.dev/icons?i=mysql,sqlite,firebase)](https://skillicons.dev)
-
-- **Tools:**  
-  VS Code, Git, GitHub, Figma, NetBeans, Android Studio  
-  [![SkillIcons](https://skillicons.dev/icons?i=vscode,git,github,figma,androidstudio)](https://skillicons.dev)
 
 ---
 
